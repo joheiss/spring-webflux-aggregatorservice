@@ -1,0 +1,8 @@
+
+customer:
+  service:
+    url: http://localhost:8081
+
+stock:
+  service:
+    url: http://localhost:7070
